@@ -219,7 +219,7 @@ async def viewadmins(ctx):
 
 # Displays a help message explaining how to use the blacklist commands.
 @bot.command()
-async def help(ctx):
+async def helpblacklist(ctx):
     help_message = """
 The following commands are available for the blacklist:
 - .blacklist <user_id>: Adds the specified user to the blacklist.
