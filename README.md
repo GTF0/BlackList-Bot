@@ -13,7 +13,7 @@ Blacklist Bot is a Discord bot designed to help server owners manage blacklisted
 ## Usage
 To use the bot, you must have a Discord server and have the necessary permissions to add a bot to your server.
 
-1. Create a new Discord bot and add it to your server. You can follow these instructions to do this.
+1. Create a new Discord bot and add it to your server. You can follow these instructions to do this. https://discordpy.readthedocs.io/en/latest/discord.html
 2. Copy the contents of `blacklist_bot.py` into a new file in your preferred text editor.
 3. Replace the `guild_id` variable with the ID of your server.
 4. Replace the `admin_ids` variable with a list of Discord user IDs for your admins.
